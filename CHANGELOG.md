@@ -1,5 +1,12 @@
 ## [Unreleased]
 
+### [0.4.1](https://www.github.com/niquerio/please-release-demo/compare/v0.4.0...v0.4.1) (2022-09-26)
+
+
+### Bug Fixes
+
+* whatever ([b4b8d12](https://www.github.com/niquerio/please-release-demo/commit/b4b8d12496782aa25e106cf56eb630310c51d038))
+
 ## [0.4.0](https://www.github.com/niquerio/please-release-demo/compare/v0.3.0...v0.4.0) (2022-09-26)
 
 
