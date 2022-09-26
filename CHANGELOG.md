@@ -1,5 +1,20 @@
 ## [Unreleased]
 
+## [0.3.0](https://www.github.com/niquerio/please-release-demo/compare/v0.2.1...v0.3.0) (2022-09-26)
+
+
+### Features
+
+* adds file_iwith_change.txt ([d87ddf9](https://www.github.com/niquerio/please-release-demo/commit/d87ddf9b7cd12b41c0ff68de784109acd151563a))
+* fixes release to just be on push to main ([acfc579](https://www.github.com/niquerio/please-release-demo/commit/acfc579f3667e7dafc78cea2c224be879d458909))
+* new change ([4380e8f](https://www.github.com/niquerio/please-release-demo/commit/4380e8f7a701e5fa01841835c50c181f4e5ff151))
+
+
+### Bug Fixes
+
+* typo adds another change ([7ab71dd](https://www.github.com/niquerio/please-release-demo/commit/7ab71dd023052d8b5350875dbfd1f827c51f15d9))
+* yet another change ([22e7c08](https://www.github.com/niquerio/please-release-demo/commit/22e7c08e11084ba3341744473622a3c58cd2f1d8))
+
 ### [0.2.1](https://www.github.com/niquerio/please-release-demo/compare/v0.2.0...v0.2.1) (2022-09-26)
 
 
