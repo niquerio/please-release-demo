@@ -1,5 +1,13 @@
 ## [Unreleased]
 
+### [0.2.1](https://www.github.com/niquerio/please-release-demo/compare/v0.2.0...v0.2.1) (2022-09-26)
+
+
+### Bug Fixes
+
+* typo adds another change ([0c39aed](https://www.github.com/niquerio/please-release-demo/commit/0c39aedabe6ea538f350ef14a72900c72e5f782c))
+* yet another change ([00ae798](https://www.github.com/niquerio/please-release-demo/commit/00ae7980a191ed4be35d77c4168e4be360312f56))
+
 ## [0.2.0](https://www.github.com/niquerio/please-release-demo/compare/v0.1.0...v0.2.0) (2022-09-26)
 
 
