@@ -1,8 +1,8 @@
 # frozen_string_literal: true
 
-require_relative "demo/version"
+require_relative "release-please/version"
 
-module Demo
+module ReleasePlease
   class Error < StandardError; end
   # Your code goes here...
 end
