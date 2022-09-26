@@ -1,5 +1,16 @@
 ## [Unreleased]
 
+## [0.4.0](https://www.github.com/niquerio/please-release-demo/compare/v0.3.0...v0.4.0) (2022-09-26)
+
+
+### ⚠ BREAKING CHANGES
+
+* adds another line of text
+
+### Features
+
+* adds another line of text ([129565b](https://www.github.com/niquerio/please-release-demo/commit/129565b0b53ada5c152e429172aa7c99a4d00419))
+
 ## [0.3.0](https://www.github.com/niquerio/please-release-demo/compare/v0.2.1...v0.3.0) (2022-09-26)
 
 
