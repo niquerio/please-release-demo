@@ -1,5 +1,21 @@
 ## [Unreleased]
 
+## [0.5.0](https://www.github.com/niquerio/please-release-demo/compare/v0.4.1...v0.5.0) (2022-09-26)
+
+
+### ⚠ BREAKING CHANGES
+
+* bleh
+
+### Features
+
+* bleh ([8681688](https://www.github.com/niquerio/please-release-demo/commit/8681688d534eaacbb974f7147a840f92b0da22e0))
+
+
+### Bug Fixes
+
+* typos ([fcb7860](https://www.github.com/niquerio/please-release-demo/commit/fcb7860ca7d600bae74f2a61ed2d1d56bc132e4e))
+
 ### [0.4.1](https://www.github.com/niquerio/please-release-demo/compare/v0.4.0...v0.4.1) (2022-09-26)
 
 
