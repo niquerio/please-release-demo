@@ -1,5 +1,12 @@
 ## [Unreleased]
 
+## [0.2.0](https://www.github.com/niquerio/please-release-demo/compare/v0.1.0...v0.2.0) (2022-09-26)
+
+
+### Features
+
+* new change ([eab5d84](https://www.github.com/niquerio/please-release-demo/commit/eab5d843a1a20b4d308a17cd7500313dd1312676))
+
 ## 0.1.0 (2022-09-26)
 
 
