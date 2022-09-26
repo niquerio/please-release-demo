@@ -14,7 +14,7 @@
 
 ### Bug Fixes
 
-* typonessxhl ([fcb7860](https://www.github.com/niquerio/please-release-demo/commit/fcb7860ca7d600bae74f2a61ed2d1d56bc132e4e))
+* typos ([fcb7860](https://www.github.com/niquerio/please-release-demo/commit/fcb7860ca7d600bae74f2a61ed2d1d56bc132e4e))
 
 ### [0.4.1](https://www.github.com/niquerio/please-release-demo/compare/v0.4.0...v0.4.1) (2022-09-26)
 
