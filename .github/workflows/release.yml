@@ -12,7 +12,7 @@ jobs:
           release-type: ruby
           package-name: release-please-demo
           bump-minor-pre-major: true
-          version-file: "lib/alma_rest_client/version.rb"
+          version-file: "lib/release-please/version.rb"
       # Checkout code if release was created
       - uses: actions/checkout@v2
         if: ${{ steps.release.outputs.release_created }}
